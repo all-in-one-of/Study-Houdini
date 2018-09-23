@@ -14,8 +14,10 @@ for i in range(0,142):
 
     # num = "%05d" % i
     num = str(i)
+    num_03 = "%03d" % i
+
     in_path = "JPG/img-" + num + ".jpg"
-    out_path = "src_cropped/img-" + num + ".jpg"
+    out_path = "cropped/img-" + num_03 + ".jpg"
     img = Image.open(in_path)
     # img_new = crop_center(img, 720, 720)
     img_new = crop_top_left(img, 720, 720)

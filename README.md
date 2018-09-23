@@ -2,16 +2,32 @@
 
 ### Index  
 
+
+- SideFX による Tutorials
 - Rendering  
 - ライセンスによる違い  
+- memo  
 
 ---  
+
+---  
+
+
+### SideFX による Tutorials  
+
+[https://www.sidefx.com/ja/tutorials/](https://www.sidefx.com/ja/tutorials/)  
 
 ---  
 
 ### Rendering
 
-[Rendering.md](https://github.com/naysok/Study-Houdini/blob/master/Rendering.md)
+[Rendering.md](https://github.com/naysok/Study-Houdini/blob/master/Rendering.md)  
+
+レンダリングちょっと苦労したので、とりあえずメモ  
+
+- レンダリングの流れ  
+- フォルダ構成  
+- Ref.  
 
 ---  
 
@@ -46,3 +62,11 @@ X : HOUDINI INDIE
 何か必要になった時は、年間 9200 円の学生ライセンスがあるっぽいのでそれが良さそう。  
 
 [https://www.sidefx.com/ja/products/compare/](https://www.sidefx.com/ja/products/compare/)  
+
+
+---  
+
+### memo  
+
+Material Assignment（サルにもわかる Houdini）  
+[http://ikatnek.blogspot.com/p/material-assignment.html](http://ikatnek.blogspot.com/p/material-assignment.html)

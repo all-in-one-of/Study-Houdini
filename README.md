@@ -2,13 +2,28 @@
 
 ### Index  
 
-
+- NodeReference  
 - SideFX による Tutorials
 - Rendering  
 - ライセンスによる違い  
 - memo  
 
+
 ---  
+
+---  
+
+
+### NodeReference  
+
+memo ↓  
+[NodeRef.md](https://github.com/naysok/Study-Houdini/blob/master/NodeRef.md)
+
+SideFX Ref.  
+[http://www.sidefx.com/docs/houdini/nodes/index.html](http://www.sidefx.com/docs/houdini/nodes/index.html)  
+[http://www.sidefx.com/ja/docs/houdini/nodes/index.html](http://www.sidefx.com/ja/docs/houdini/nodes/index.html)
+
+
 
 ---  
 
@@ -17,7 +32,9 @@
 
 [https://www.sidefx.com/ja/tutorials/](https://www.sidefx.com/ja/tutorials/)  
 
+
 ---  
+
 
 ### Rendering
 
@@ -29,7 +46,9 @@
 - フォルダ構成  
 - Ref.  
 
+
 ---  
+
 
 ### ライセンスによる違い  
 
@@ -65,6 +84,7 @@ X : HOUDINI INDIE
 
 
 ---  
+
 
 ### memo  
 

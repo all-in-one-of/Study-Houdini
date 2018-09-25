@@ -4,11 +4,13 @@
 
 
 
-- OBJ  
+- Object network   
+  - Object nodes, オブジェクトノード [http://www.sidefx.com/docs/houdini/nodes/obj/index.html](http://www.sidefx.com/docs/houdini/nodes/obj/index.html)
   - 最上位  
   - ジオメトリ、カメラ、ライト  
 
-- SOP  
+- Geometry (SOP) networks  
+  - Geometry nodes, ジオメトリノード（ [http://www.sidefx.com/ja/docs/houdini/nodes/sop/index.html](http://www.sidefx.com/ja/docs/houdini/nodes/sop/index.html)）   
   - ジオメトリの編集、作成  
 
 - DOP  
@@ -28,3 +30,29 @@
 
 - ROP  
   - レンダリング等の出力  
+
+
+
+---  
+
+---  
+
+
+### Object network   
+
+
+- Geometry  
+  - モデルを定義するジオメトリオペレータ(SOP)を格納します  
+
+
+---  
+
+
+### Geometry (SOP) networks  
+
+- Twist  
+  - 軸周りにジオメトリを捻る
+
+
+---  
+

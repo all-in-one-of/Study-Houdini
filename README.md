@@ -2,8 +2,9 @@
 
 ### Index  
 
-- NodeReference  
 - SideFX による Tutorials
+- NodeReference  
+- VEX  
 - Rendering  
 - ライセンスによる違い  
 - memo  
@@ -14,18 +15,6 @@
 ---  
 
 
-### NodeReference  
-
-memo ↓  
-[NodeRef.md](https://github.com/naysok/Study-Houdini/blob/master/NodeRef.md)
-
-SideFX Ref.  
-[http://www.sidefx.com/docs/houdini/nodes/index.html](http://www.sidefx.com/docs/houdini/nodes/index.html)  
-[http://www.sidefx.com/ja/docs/houdini/nodes/index.html](http://www.sidefx.com/ja/docs/houdini/nodes/index.html)
-
-
-
----  
 
 
 ### SideFX による Tutorials  
@@ -36,9 +25,30 @@ SideFX Ref.
 ---  
 
 
+### NodeReference  
+
+memo ↓  
+[NodeRef.md](https://github.com/naysok/Study-Houdini/blob/master/NodeRef/NodeRef.md)
+
+SideFX Ref.  
+[http://www.sidefx.com/docs/houdini/nodes/index.html](http://www.sidefx.com/docs/houdini/nodes/index.html)  
+[http://www.sidefx.com/ja/docs/houdini/nodes/index.html](http://www.sidefx.com/ja/docs/houdini/nodes/index.html)
+
+
+---  
+
+### VEX  
+
+[VEX.md](https://github.com/naysok/Study-Houdini/blob/master/VEX/VEX.md)  
+
+
+
+---  
+
+
 ### Rendering
 
-[Rendering.md](https://github.com/naysok/Study-Houdini/blob/master/Rendering.md)  
+[Rendering.md](https://github.com/naysok/Study-Houdini/blob/master/Rendering/Rendering.md)  
 
 レンダリングちょっと苦労したので、とりあえずメモ  
 
